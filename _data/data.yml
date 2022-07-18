@@ -18,6 +18,7 @@ sidebar:
 #    citizenship:
 #    website: blog.webjeda.com #do not add http://
     linkedin: daohuu
+    skype: hdt.nl90
 #    xing: alandoe
 #    github: sharu725
 #    telegram: # add your nickname without '@' sign
@@ -52,8 +53,26 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      As a Unity developer with 4 years of experience, I like to work on new technologies with Unity and produce new and creative projects.
-      Strength: 2D and 3D math, optimization, OOP, SOLID, and debugging.
+      - As a Unity developer with 4 years of experience, I like to work on new technologies with Unity and produce new and creative projects.
+      - Strength: 2D and 3D math, optimization, OOP, SOLID, and debugging.
+
+education:
+    - degree:
+#      university: Self-Taught
+#      time: 2016 - Present
+      details: |
+        Self-taught C#, Unity, Android, Java, Python... at Youtube, online courses, blog...
+#    - degree: BSc in Applied Mathematics
+#      university: Bristol University
+#      time: 2007 - 2011
+#      details: |
+#        Describe your study here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#        sociis natoque penatibus et magnis dis parturient montes, nascetur
+#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#        pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
 
 experiences:
     - role: Unity Developer
@@ -137,24 +156,6 @@ projects:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
-education:
-    - degree:
-#      university: Self-Taught
-#      time: 2016 - Present
-      details: |
-        Self-taught C#, Unity, Android, Java, Python... at Youtube, online courses, blog...
-#    - degree: BSc in Applied Mathematics
-#      university: Bristol University
-#      time: 2007 - 2011
-#      details: |
-#        Describe your study here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#        sociis natoque penatibus et magnis dis parturient montes, nascetur
-#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#        pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -168,8 +169,8 @@ skills:
       - name: Python
         level: 50%
 
-#      - name: iOS & Objective-C & Swift
-#        level: 30%
+      - name: iOS & Objective-C & Swift
+        level: 30%
 #
 #      - name: Javascript & HTML5 & CSS
 #        level: 40%
