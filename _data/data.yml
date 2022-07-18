@@ -136,17 +136,17 @@ projects:
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
 #      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #        link: "#"
@@ -168,14 +168,14 @@ skills:
       - name: Android & Java
         level: 50%
 
-      - name: iOS & Objective-C & Swift
-        level: 30%
-
       - name: Python
-        level: 55%
+        level: 50%
 
-      - name: Javascript & HTML5 & CSS
-        level: 40%
+#      - name: iOS & Objective-C & Swift
+#        level: 30%
+#
+#      - name: Javascript & HTML5 & CSS
+#        level: 40%
 
 #      - name: Sketch & Photoshop
 #        level: 60%
