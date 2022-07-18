@@ -27,7 +27,7 @@ sidebar:
 #    stack-overflow: # Number/Username, e.g. 123456/alandoe
 #    codewars:
 #    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+#    pdf: http://www.africau.edu/images/default/sample.pdf
 
 #    languages:
 #      - idiom: English
@@ -50,43 +50,23 @@ sidebar:
 #        link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       As a Unity developer with 4 years of experience, I like to work on new technologies with Unity and produce new and creative projects.
       Strength: 2D and 3D math, optimization, OOP, SOLID, and debugging.
-education:
-    - degree:
-      university: Self-Taught
-      time: 2016 - Present
-      details: |
-        Self-taught C#, Unity, Android, Java, Python... at Youtube, online courses, blog...
-#    - degree: BSc in Applied Mathematics
-#      university: Bristol University
-#      time: 2007 - 2011
-#      details: |
-#        Describe your study here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#        sociis natoque penatibus et magnis dis parturient montes, nascetur
-#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#        pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
+
 experiences:
     - role: Unity Developer
       time: 2018 - Present
       company: Gear Inc
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - Cooperate with designers to create clean interfaces and simple, intuitive interactions and experiences
+        - Develop project concepts and maintain optimal workflow
+        - Work with developers to manage and optimize large, complex design projects
+        - Complete detailed programming and development tasks
+        - Carry out quality assurance tests to discover errors and optimize usability
+        - Profile application with Unity profiler, memory profiler, frame debugger
+        
 #    - role: Senior Software Engineer
 #      time: 2014 - 2015
 #      company: Google, London
@@ -109,12 +89,11 @@ experiences:
 #        pellentesque eu, pretium quis, sem.
 #          - Bullet point
 #          - Bullet point
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Mini games, apps I made.
     assignments:
       - title: Sudoku
         link: "https://play.google.com/store/apps/details?id=com.seedgame.sudoku247"
@@ -157,6 +136,24 @@ projects:
 #        link: "#"
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
+
+education:
+    - degree:
+#      university: Self-Taught
+#      time: 2016 - Present
+      details: |
+        Self-taught C#, Unity, Android, Java, Python... at Youtube, online courses, blog...
+#    - degree: BSc in Applied Mathematics
+#      university: Bristol University
+#      time: 2007 - 2011
+#      details: |
+#        Describe your study here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#        sociis natoque penatibus et magnis dis parturient montes, nascetur
+#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#        pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
 
 skills:
     title: Skills &amp; Proficiency
